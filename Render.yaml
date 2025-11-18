@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: tadu-crawler
-    env: node
-    buildCommand: "npm install"
-    startCommand: "npm start"
